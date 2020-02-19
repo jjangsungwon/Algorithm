@@ -144,6 +144,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 |
 | [11721](https://www.acmicpc.net/problem/11721) | 열 개씩 끊어 출력하기 |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |
+| [15469](https://www.acmicpc.net/problem/15469) | N과 M(1) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A + B |
 | [15596](https://www.acmicpc.net/problem/15596) | 정수 N개의 합 |
 | [15891](https://www.acmicpc.net/problem/15891) | 스타트링크 사무실을 파헤쳐보자 |
