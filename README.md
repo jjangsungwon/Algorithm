@@ -37,6 +37,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 |
 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 |
+| [1793](https://www.acmicpc.net/problem/1793) | 타일링 |
 | [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 |
 | [1912](https://www.acmicpc.net/problem/1912) | 연속합 |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 |
