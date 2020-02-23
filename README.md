@@ -37,6 +37,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 |
 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 |
+| [1793](https://www.acmicpc.net/problem/1793) | 타일링 |
 | [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 |
 | [1912](https://www.acmicpc.net/problem/1912) | 연속합 |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 |
@@ -155,5 +156,6 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 |
 | [16431](https://www.acmicpc.net/problem/16431) | 베시와 데이지 |
 | [16432](https://www.acmicpc.net/problem/16432) | 떡장수와 호랑이 |
+| [18230](https://www.acmicpc.net/problem/16432) | 2 X N 예쁜 타일링 |
 
 
