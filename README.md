@@ -42,6 +42,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1912](https://www.acmicpc.net/problem/1912) | 연속합 |
 | [1924](https://www.acmicpc.net/problem/1924) | 2007년 |
 | [1929](https://www.acmicpc.net/problem/1929) | 소수 구하기 |
+| [1931](https://www.acmicpc.net/problem/1931) | 회의실 배정 |
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 |
 | [2163](https://www.acmicpc.net/problem/2163) | 초콜릿 자르기 |
 | [2231](https://www.acmicpc.net/problem/2231) | 분해합 |
@@ -130,6 +131,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [10870](https://www.acmicpc.net/problem/10870) | 피보나치 수 5 |
 | [10871](https://www.acmicpc.net/problem/10871) | X보다 작은 수 |
 | [10872](https://www.acmicpc.net/problem/10872) | 팩토리얼 |
+| [10989](https://www.acmicpc.net/problem/10989) | 수 정렬하기 3 |
 | [10950](https://www.acmicpc.net/problem/10950) | A + B - 3 |
 | [10951](https://www.acmicpc.net/problem/10951) | A + B - 4 |
 | [10952](https://www.acmicpc.net/problem/10952) | A + B - 5 |
@@ -140,6 +142,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [11023](https://www.acmicpc.net/problem/11023) | 더하기 3 |
 | [11047](https://www.acmicpc.net/problem/11047) | 동전 0 |
 | [11050](https://www.acmicpc.net/problem/11050) | 이항 계수 1 |
+| [11399](https://www.acmicpc.net/problem/11399) | ATM |
 | [11654](https://www.acmicpc.net/problem/11654) | 아스키 코드 |
 | [11718](https://www.acmicpc.net/problem/11718) | 그대로 출력하기 |
 | [11720](https://www.acmicpc.net/problem/11720) | 숫자의 합 |
@@ -147,6 +150,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [11726](https://www.acmicpc.net/problem/11726) | 2 X N 타일링 |
 | [11727](https://www.acmicpc.net/problem/11727) | 2 X N 타일링(2) |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |
+| [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 |
 | [15469](https://www.acmicpc.net/problem/15469) | N과 M(1) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A + B |
 | [15596](https://www.acmicpc.net/problem/15596) | 정수 N개의 합 |
