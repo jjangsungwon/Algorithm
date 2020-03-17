@@ -9,6 +9,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1001](https://www.acmicpc.net/problem/1001) | A-B | 
 | [1008](https://www.acmicpc.net/problem/1008) | A/B |
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 |
+| [1012](https://www.acmicpc.net/problem/1012) | 유기농  |
 | [1015](https://www.acmicpc.net/problem/1015) | 수열 정렬 |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ 수 |
 | [1026](https://www.acmicpc.net/problem/1026) | 보물 |
