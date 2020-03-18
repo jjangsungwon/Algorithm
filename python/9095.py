@@ -1,5 +1,3 @@
-# github blog : jjangsungwon.github.io
-# baekjoon : 9095
 import sys
 
 T = int(sys.stdin.readline())

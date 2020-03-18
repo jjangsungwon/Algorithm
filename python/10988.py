@@ -1,7 +1,4 @@
-"""
-github blog : jjangsungwon.github.io
-baekjoon : 10988
-"""
+
 
 import sys
 import copy
