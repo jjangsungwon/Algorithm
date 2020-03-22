@@ -21,6 +21,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 |
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 |
+| [1118](https://www.acmicpc.net/problem/1118) |  |
 | [1120](https://www.acmicpc.net/problem/1120) | 문자열 |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 |
