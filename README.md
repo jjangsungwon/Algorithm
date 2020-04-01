@@ -13,6 +13,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1012](https://www.acmicpc.net/problem/1012) | 유기농  |
 | [1015](https://www.acmicpc.net/problem/1015) | 수열 정렬 |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ 수 |
+| [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 |
 | [1026](https://www.acmicpc.net/problem/1026) | 보물 |
 | [1049](https://www.acmicpc.net/problem/1049) | 기타줄 |
 | [1057](https://www.acmicpc.net/problem/1057) | 토너먼트 |
