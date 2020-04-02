@@ -15,6 +15,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ 수 |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 |
 | [1026](https://www.acmicpc.net/problem/1026) | 보물 |
+| [1032](https://www.acmicpc.net/problem/1032) | 명령  |
 | [1049](https://www.acmicpc.net/problem/1049) | 기타줄 |
 | [1057](https://www.acmicpc.net/problem/1057) | 토너먼트 |
 | [1065](https://www.acmicpc.net/problem/1065) | 한수 |
