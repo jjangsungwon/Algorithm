@@ -6,13 +6,16 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | 문제 번호 | 문제 이름 | 
 | --- | --- |
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | 
-| [1001](https://www.acmicpc.net/problem/1001) | A-B | 
+| [1001](https://www.acmicpc.net/problem/1001) | A-B |
+| [1003](https://www.acmicpc.net/problem/1003) | 피보나치  |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B |
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 |
 | [1012](https://www.acmicpc.net/problem/1012) | 유기농  |
 | [1015](https://www.acmicpc.net/problem/1015) | 수열 정렬 |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ 수 |
+| [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 |
 | [1026](https://www.acmicpc.net/problem/1026) | 보물 |
+| [1032](https://www.acmicpc.net/problem/1032) | 명령  |
 | [1049](https://www.acmicpc.net/problem/1049) | 기타줄 |
 | [1057](https://www.acmicpc.net/problem/1057) | 토너먼트 |
 | [1065](https://www.acmicpc.net/problem/1065) | 한수 |
