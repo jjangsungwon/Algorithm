@@ -42,6 +42,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호 |
 | [1546](https://www.acmicpc.net/problem/1546) | 평균 |
 | [1712](https://www.acmicpc.net/problem/1712) | 손익분기점 |
+| [1759](https://www.acmicpc.net/problem/1712) | 암호 만들기 |
 | [1793](https://www.acmicpc.net/problem/1793) | 타일링 |
 | [1874](https://www.acmicpc.net/problem/1874) | 스택 수열 |
 | [1912](https://www.acmicpc.net/problem/1912) | 연속합 |
@@ -105,6 +106,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [5339](https://www.acmicpc.net/problem/5339) | 콜센터 |
 | [5585](https://www.acmicpc.net/problem/5585) | 거스름돈 |
 | [5622](https://www.acmicpc.net/problem/5622) | 다이얼 |
+| [6603](https://www.acmicpc.net/problem/6603) | 로또 |
 | [6679](https://www.acmicpc.net/problem/6679) | 싱기한 네자리 숫자 |
 | [7287](https://www.acmicpc.net/problem/7287) | 등록 |
 | [7568](https://www.acmicpc.net/problem/7568) | 덩치 |
