@@ -11,6 +11,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1003](https://www.acmicpc.net/problem/1003) | 피보나치  |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B |
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 |
+| [1009](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri |
 | [1012](https://www.acmicpc.net/problem/1012) | 유기농  |
 | [1015](https://www.acmicpc.net/problem/1015) | 수열 정렬 |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ 수 |
@@ -19,11 +20,13 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [1032](https://www.acmicpc.net/problem/1032) | 명령  |
 | [1049](https://www.acmicpc.net/problem/1049) | 기타줄 |
 | [1057](https://www.acmicpc.net/problem/1057) | 토너먼트 |
+| [1062](https://www.acmicpc.net/problem/1062) | 가르침 |
 | [1065](https://www.acmicpc.net/problem/1065) | 한수 |
 | [1075](https://www.acmicpc.net/problem/1075) | 나누기 |
 | [1076](https://www.acmicpc.net/problem/1076) | 저항 |
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 |
+| [1100](https://www.acmicpc.net/problem/1094) | 하얀칸 |
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 |
 | [1120](https://www.acmicpc.net/problem/1120) | 문자열 |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 |
