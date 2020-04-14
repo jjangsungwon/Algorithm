@@ -161,11 +161,13 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [11727](https://www.acmicpc.net/problem/11727) | 2 X N 타일링(2) |
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 |
+| [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 |
 | [15469](https://www.acmicpc.net/problem/15469) | N과 M(1) |
 | [15552](https://www.acmicpc.net/problem/15552) | 빠른 A + B |
 | [15596](https://www.acmicpc.net/problem/15596) | 정수 N개의 합 |
 | [15891](https://www.acmicpc.net/problem/15891) | 스타트링크 사무실을 파헤쳐보자 |
 | [15913](https://www.acmicpc.net/problem/15913) | 가위 바위 보 999 |
+| [15998](https://www.acmicpc.net/problem/15998) | 카카오머니 |
 | [16236](https://www.acmicpc.net/problem/16236) | 아기 상어 |
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 |
 | [16431](https://www.acmicpc.net/problem/16431) | 베시와 데이지 |
