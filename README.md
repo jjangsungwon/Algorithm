@@ -6,9 +6,9 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | 문제 번호 | 문제 이름 | 
 | --- | --- |
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | 
-| [1001](https://www.acmicpc.net/problem/1001) |  |
-| [1002](https://www.acmicpc.net/problem/1002) | A-B |
-| [1003](https://www.acmicpc.net/problem/1003) | 피보나치  |
+| [1001](https://www.acmicpc.net/problem/1001) | A-B |
+| [1002](https://www.acmicpc.net/problem/1002) | 터렛 |
+| [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B |
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 |
 | [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri |
