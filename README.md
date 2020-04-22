@@ -6,39 +6,51 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | 문제 번호 | 문제 이름 | 
 | --- | --- |
 | [1000](https://www.acmicpc.net/problem/1000) | A+B | 
-| [1001](https://www.acmicpc.net/problem/1001) |  |
-| [1002](https://www.acmicpc.net/problem/1002) | A-B |
-| [1003](https://www.acmicpc.net/problem/1003) | 피보나치  |
+| [1001](https://www.acmicpc.net/problem/1001) | A-B |
+| [1002](https://www.acmicpc.net/problem/1002) | 터렛 |
+| [1003](https://www.acmicpc.net/problem/1003) | 피보나치 함수 |
 | [1008](https://www.acmicpc.net/problem/1008) | A/B |
 | [1009](https://www.acmicpc.net/problem/1009) | 분산처리 |
-| [1009](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri |
+| [1011](https://www.acmicpc.net/problem/1011) | Fly me to the Alpha Centauri |
 | [1012](https://www.acmicpc.net/problem/1012) | 유기농  |
 | [1015](https://www.acmicpc.net/problem/1015) | 수열 정렬 |
 | [1016](https://www.acmicpc.net/problem/1016) | 제곱 ㄴㄴ 수 |
 | [1018](https://www.acmicpc.net/problem/1018) | 체스판 다시 칠하기 |
 | [1026](https://www.acmicpc.net/problem/1026) | 보물 |
 | [1032](https://www.acmicpc.net/problem/1032) | 명령  |
+| [1037](https://www.acmicpc.net/problem/1037) | 약수  |
 | [1049](https://www.acmicpc.net/problem/1049) | 기타줄 |
 | [1057](https://www.acmicpc.net/problem/1057) | 토너먼트 |
 | [1062](https://www.acmicpc.net/problem/1062) | 가르침 |
 | [1065](https://www.acmicpc.net/problem/1065) | 한수 |
 | [1075](https://www.acmicpc.net/problem/1075) | 나누기 |
 | [1076](https://www.acmicpc.net/problem/1076) | 저항 |
+| [1080](https://www.acmicpc.net/problem/1080) | 행렬 |
 | [1085](https://www.acmicpc.net/problem/1085) | 직사각형에서 탈출 |
 | [1094](https://www.acmicpc.net/problem/1094) | 막대기 |
-| [1100](https://www.acmicpc.net/problem/1094) | 하얀칸 |
+| [1100](https://www.acmicpc.net/problem/1100) | 하얀칸 |
 | [1110](https://www.acmicpc.net/problem/1110) | 더하기 사이클 |
 | [1120](https://www.acmicpc.net/problem/1120) | 문자열 |
+| [1138](https://www.acmicpc.net/problem/1138) | 한 줄로 서기 |
 | [1149](https://www.acmicpc.net/problem/1149) | RGB거리 |
 | [1152](https://www.acmicpc.net/problem/1152) | 단어의 개수 |
 | [1157](https://www.acmicpc.net/problem/1157) | 단어 공부 |
+| [1181](https://www.acmicpc.net/problem/1181) | 단어 정렬 |
+| [1182](https://www.acmicpc.net/problem/1182) | 부분수열의 합 |
+| [1188](https://www.acmicpc.net/problem/1188) | 음식 평론가 |
 | [1193](https://www.acmicpc.net/problem/1193) | 분수찾기 |
+| [1212](https://www.acmicpc.net/problem/1212) | 8진수 2진수 |
 | [1237](https://www.acmicpc.net/problem/1237) | 정ㅋ벅ㅋ |
 | [1260](https://www.acmicpc.net/problem/1260) | DFS와 BFS |
+| [1292](https://www.acmicpc.net/problem/1292) | 쉽게 푸는 문제 |
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 |
 | [1330](https://www.acmicpc.net/problem/1330) | 두 수 비교하기 |
+| [1357](https://www.acmicpc.net/problem/1357) | 뒤집힌 덧셈 |
+| [1408](https://www.acmicpc.net/problem/1408) | 24 |
 | [1427](https://www.acmicpc.net/problem/1427) | 소트인사이드 |
 | [1436](https://www.acmicpc.net/problem/1436) | 영화감독 숌 |
+| [1439](https://www.acmicpc.net/problem/1439) | 뒤집기 |
+| [1453](https://www.acmicpc.net/problem/1453) | 피시방  |
 | [1463](https://www.acmicpc.net/problem/1463) | 1로 만들기 |
 | [1475](https://www.acmicpc.net/problem/1475) | 방 번호 |
 | [1500](https://www.acmicpc.net/problem/1500) | 최대 곱 |
