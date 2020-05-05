@@ -177,6 +177,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [11942](https://www.acmicpc.net/problem/11942) | 고려대는 사랑입니다 |
 | [11944](https://www.acmicpc.net/problem/11944) | NN |
 | [12865](https://www.acmicpc.net/problem/12865) | 평범한 배낭 |
+| [14226](https://www.acmicpc.net/problem/14226) | 이모티콘 |
 | [14500](https://www.acmicpc.net/problem/14500) | 테트로미노 |
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사 |
 | [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기 |
