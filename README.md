@@ -195,6 +195,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [16430](https://www.acmicpc.net/problem/16430) | 제리와 톰 |
 | [16431](https://www.acmicpc.net/problem/16431) | 베시와 데이지 |
 | [16432](https://www.acmicpc.net/problem/16432) | 떡장수와 호랑이 |
+| [17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기 2 |
 | [18230](https://www.acmicpc.net/problem/16432) | 2 X N 예쁜 타일링 |
 
 
