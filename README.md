@@ -79,6 +79,7 @@ Baekjoon Online Judge (https://www.acmicpc.net)
 | [2443](https://www.acmicpc.net/problem/2443) | 별 찍기 - 6 |
 | [2475](https://www.acmicpc.net/problem/2475) | 검증수 |
 | [2522](https://www.acmicpc.net/problem/2522) | 별 찍기 - 12 |
+| [2547](https://www.acmicpc.net/problem/2547) | 사탕 선생 고창영 |
 | [2557](https://www.acmicpc.net/problem/2557) | Hello World |
 | [2558](https://www.acmicpc.net/problem/2558) | A + B - 2 |
 | [2562](https://www.acmicpc.net/problem/2562) | 최댓값 |
