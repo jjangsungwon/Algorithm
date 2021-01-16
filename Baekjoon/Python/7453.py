@@ -1,33 +1,34 @@
-from collections import Counter
-from bisect import bisect_left, bisect_right
+import sys
 
 
 if __name__ == "__main__":
     n = int(input())
-    array = [list(map(int, input().split())) for _ in range(n)]
+    array = [list(map(int, sys.stdin.readline().split())) for _ in range(n)]
 
-    ab = []
-    cd = []
+    a_list, b_list, c_list, d_list = list(), list(), list(), list()
+    for i in range(n):
+        for j in range(4):
+            value = array[i][j]
+            if j == 0:
+                a_list.append(value)
+            elif j == 1:
+                b_list.append(value)
+            elif j == 2:
+                c_list.append(value)
+            elif j == 3:
+                d_list.append(value)
+
+    ab = dict()
 
     # ab 가능한 합 계산
-    for i in range(n):
-        for j in range(n):
-            value = array[i][0] + array[j][1]
-            ab.append(value)
+    for a in a_list:
+        for b in b_list:
+            ab[a + b] = ab.get(a + b, 0) + 1
 
     # cd 가능한 합 계산
-    for i in range(n):
-        for j in range(n):
-            value = array[i][2] + array[j][3]
-            cd.append(value)
-
-    ab.sort()
-    cd.sort()
-
     answer = 0
-    for i in range(len(ab)):
-        left_index = bisect_left(cd, -ab[i])
-        right_index = bisect_right(cd, -ab[i])
-        answer += (right_index - left_index)
+    for c in c_list:
+        for d in d_list:
+            answer += ab.get(-(c + d), 0)
 
     print(answer)
