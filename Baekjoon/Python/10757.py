@@ -1,7 +1,0 @@
-import sys
-
-A, B = map(int, sys.stdin.readline().split())
-
-A += 1000000000000000000000000000000000000000000000000000000000000000000000000
-print(A)
-print(type(A))
