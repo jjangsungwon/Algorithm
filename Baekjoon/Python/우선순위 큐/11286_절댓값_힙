@@ -1,0 +1,28 @@
+import heapq
+import sys
+
+
+if __name__ == "__main__":
+  
+  # 연산의 개수 입력
+  n = int(sys.stdin.readline())
+  
+  # 배열 선언
+  q = []
+
+  # 연산의 개수만큼 반복
+  for _ in range(n):
+
+    # 연산에 대한 정보 입력
+    tmp = int(sys.stdin.readline())
+
+    if tmp == 0:
+      # 힙이 비어있는 경우
+      if len(q) == 0:
+        print(0)
+      else:
+        # 절댓값이 가장 작은 값 출력 및 제거
+        print(heapq.heappop(q)[1])
+    else:
+      # 값 추가
+      heapq.heappush(q, [abs(tmp), tmp])
