@@ -1,11 +1,11 @@
 import pandas as pd
 
-def total_time(employees: pd.DataFrame) -> pd.DataFrame:
-    employees['total_time'] = employees['out_time'] - employees['in_time']
-    result = employees.groupby(['event_day', 'emp_id'], as_index=False)['total_time'].sum()
-    result = result.rename(columns={'event_day': 'day'})
-    return result
+def find_classes(courses: pd.DataFrame) -> pd.DataFrame:
+    courses = courses.groupby('class')['student'].count().reset_index(name='cnt')
+    courses = courses[courses['cnt'] >=5 ]
+    return courses[['class']]
 
 
 if __name__ == "__main__":
-    print(total_time(employees))
+    print(find_classes(courses))
+    
