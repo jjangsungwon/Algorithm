@@ -1,11 +1,10 @@
 import pandas as pd
 
-def order_scores(scores: pd.DataFrame) -> pd.DataFrame:
-    scores = scores.sort_values(by='score', ascending=False)
-    scores['rank'] = scores['score'].rank(method='dense', ascending=False)
-    return scores[['score', 'rank']]
+def rearrange_products_table(products: pd.DataFrame) -> pd.DataFrame:
+    products = products.melt(id_vars=['product_id'], var_name='store', value_name='price')
+    products = products.dropna()
+    return products
 
 
 if __name__ == "__main__":
-    print(order_scores(scores))
-    
+    print(rearrange_products_table(products))
