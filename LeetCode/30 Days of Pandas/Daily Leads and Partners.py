@@ -1,14 +1,9 @@
 import pandas as pd
 
-def categorize_products(activities: pd.DataFrame) -> pd.DataFrame:
-    activities = activities.groupby('sell_date')['product'].agg(
-        num_sold='nunique',
-        products=lambda x: ','.join(sorted(set(x)))
-    ).reset_index()
-    activities = activities.sort_values(by='sell_date')
-    return activities
-
-
-if __name__ == "__main__":
-    print(group_sold_products_by_the_date(activities))
+def daily_leads_and_partners(daily_sales: pd.DataFrame) -> pd.DataFrame:
+    daily_sales = daily_sales.groupby(['date_id', 'make_name'], as_index=False).agg(
+        unique_leads=('lead_id', 'nunique'),
+        unique_partners=('partner_id', 'nunique')
+    )
+    return daily_sales
     
