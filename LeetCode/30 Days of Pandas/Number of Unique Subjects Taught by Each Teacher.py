@@ -1,11 +1,9 @@
 import pandas as pd
 
-def total_time(employees: pd.DataFrame) -> pd.DataFrame:
-    employees['total_time'] = employees['out_time'] - employees['in_time']
-    result = employees.groupby(['event_day', 'emp_id'], as_index=False)['total_time'].sum()
-    result = result.rename(columns={'event_day': 'day'})
-    return result
+def count_unique_subjects(teacher: pd.DataFrame) -> pd.DataFrame:
+    teacher = teacher.groupby('teacher_id')['subject_id'].nunique().reset_index(name='cnt')
+    return teacher
 
 
 if __name__ == "__main__":
-    print(total_time(employees))
+    print(count_unique_subjects(teacher))
