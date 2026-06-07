@@ -1,11 +1,9 @@
 import pandas as pd
 
-def order_scores(scores: pd.DataFrame) -> pd.DataFrame:
-    scores = scores.sort_values(by='score', ascending=False)
-    scores['rank'] = scores['score'].rank(method='dense', ascending=False)
-    return scores[['score', 'rank']]
+def delete_duplicate_emails(person: pd.DataFrame) -> None:
+    person.sort_values('id', inplace=True)
+    person.drop_duplicates(subset='email', keep='first', inplace=True)
 
 
 if __name__ == "__main__":
-    print(order_scores(scores))
-    
+    delete_duplicate_emails(person)
