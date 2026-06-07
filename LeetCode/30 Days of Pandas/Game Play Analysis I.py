@@ -1,11 +1,9 @@
 import pandas as pd
 
-def total_time(employees: pd.DataFrame) -> pd.DataFrame:
-    employees['total_time'] = employees['out_time'] - employees['in_time']
-    result = employees.groupby(['event_day', 'emp_id'], as_index=False)['total_time'].sum()
-    result = result.rename(columns={'event_day': 'day'})
-    return result
+def game_analysis(activity: pd.DataFrame) -> pd.DataFrame:
+    activity = activity.groupby('player_id')['event_date'].min().reset_index(name='first_login')
+    return activity
 
 
 if __name__ == "__main__":
-    print(total_time(employees))
+    print(game_analysis(activity))
